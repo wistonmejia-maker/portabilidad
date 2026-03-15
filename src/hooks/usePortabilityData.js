@@ -37,17 +37,18 @@ export const usePortabilityData = () => {
         setSyncing(true);
         setError(null);
         try {
-            const externalUrls = [
-                'https://www.datos.gov.co/api/views/p2kd-2azt/rows.csv?accessType=DOWNLOAD', // Donante
-                'https://www.datos.gov.co/api/views/e3ge-k6at/rows.csv?accessType=DOWNLOAD', // Receptor
-                'https://www.datos.gov.co/api/views/axh7-zz5y/rows.csv?accessType=DOWNLOAD'  // Neto
-            ];
+            // Fetch via our server-side proxy to bypass CORS restrictions
+            const proxyBase = '/api/proxy-sync?type=';
 
-            const [dRes, rRes, nRes] = await Promise.all(externalUrls.map(url => fetch(url)));
+            const [dRes, rRes, nRes] = await Promise.all([
+                fetch(`${proxyBase}donante`),
+                fetch(`${proxyBase}receptor`),
+                fetch(`${proxyBase}neto`)
+            ]);
 
-            if (!dRes.ok) throw new Error("No se pudo conectar con el dataset Donante");
-            if (!rRes.ok) throw new Error("No se pudo conectar con el dataset Receptor");
-            if (!nRes.ok) throw new Error("No se pudo conectar con el dataset Neto");
+            if (!dRes.ok) throw new Error("No se pudo conectar con el Proxy Donante");
+            if (!rRes.ok) throw new Error("No se pudo conectar con el Proxy Receptor");
+            if (!nRes.ok) throw new Error("No se pudo conectar con el Proxy Neto");
 
             const [dText, rText, nText] = await Promise.all([dRes.text(), rRes.text(), nRes.text()]);
 
