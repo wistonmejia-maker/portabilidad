@@ -8,7 +8,63 @@ import { churnData, destShares, odMatrix, towerCoTenants } from '../data/mockDat
 export const usePortabilityData = () => {
     const [data, setData] = useState(null);
     const [loading, setLoading] = useState(true);
+    const [syncing, setSyncing] = useState(false);
     const [error, setError] = useState(null);
+
+    const updateState = (donanteCsv, receptorCsv, netoCsv, updateJson) => {
+        // Process them into the dashboard format
+        const processed = processPortabilityData(receptorCsv, donanteCsv, netoCsv);
+
+        setData({
+            annualOps: processed.annualOps,
+            monthlyOps: processed.monthlyOps,
+            netResultsOMR: processed.netResultsOMR,
+            donorQ2_2025: processed.donorLatest,
+            receptorQ2_2025: processed.receptorLatest,
+            metadata: {
+                ...processed.metadata,
+                lastSync: updateJson?.timestamp || null
+            },
+            // Static mock data that we aren't transforming from these CSVs
+            churnData,
+            destShares,
+            odMatrix,
+            towerCoTenants
+        });
+    };
+
+    const syncData = async () => {
+        setSyncing(true);
+        setError(null);
+        try {
+            const externalUrls = [
+                'https://www.datos.gov.co/api/views/6qf7-9gvu/rows.csv?accessType=DOWNLOAD', // Donante
+                'https://www.datos.gov.co/api/views/2w58-6nhq/rows.csv?accessType=DOWNLOAD', // Receptor
+                'https://www.datos.gov.co/api/views/b3vi-b83r/rows.csv?accessType=DOWNLOAD'  // Neto
+            ];
+
+            const [dRes, rRes, nRes] = await Promise.all(externalUrls.map(url => fetch(url)));
+
+            if (!dRes.ok || !rRes.ok || !nRes.ok) {
+                throw new Error("Error conectando con los servidores de la CRC (PostData)");
+            }
+
+            const [dText, rText, nText] = await Promise.all([dRes.text(), rRes.text(), nRes.text()]);
+
+            const dCsv = Papa.parse(dText, { header: true, delimiter: ",", skipEmptyLines: true }).data;
+            const rCsv = Papa.parse(rText, { header: true, delimiter: ",", skipEmptyLines: true }).data;
+            const nCsv = Papa.parse(nText, { header: true, delimiter: ",", skipEmptyLines: true }).data;
+
+            updateState(dCsv, rCsv, nCsv, { timestamp: new Date().toISOString() });
+            return true;
+        } catch (err) {
+            console.error("Sync error:", err);
+            setError("Error sincronizando: " + err.message);
+            return false;
+        } finally {
+            setSyncing(false);
+        }
+    };
 
     useEffect(() => {
         const loadData = async () => {
@@ -32,30 +88,11 @@ export const usePortabilityData = () => {
                     updateRes && updateRes.ok ? updateRes.json() : null
                 ]);
 
-                // Parse the CSVs using PapaParse
-                const donanteCsv = Papa.parse(donanteText, { header: true, delimiter: ";", skipEmptyLines: true }).data;
-                const receptorCsv = Papa.parse(receptorText, { header: true, delimiter: ";", skipEmptyLines: true }).data;
-                const netoCsv = Papa.parse(netoText, { header: true, delimiter: ";", skipEmptyLines: true }).data;
+                const dCsv = Papa.parse(donanteText, { header: true, delimiter: ";", skipEmptyLines: true }).data;
+                const rCsv = Papa.parse(receptorText, { header: true, delimiter: ";", skipEmptyLines: true }).data;
+                const nCsv = Papa.parse(netoText, { header: true, delimiter: ";", skipEmptyLines: true }).data;
 
-                // Process them into the dashboard format
-                const processed = processPortabilityData(receptorCsv, donanteCsv, netoCsv);
-
-                setData({
-                    annualOps: processed.annualOps,
-                    monthlyOps: processed.monthlyOps,
-                    netResultsOMR: processed.netResultsOMR,
-                    donorQ2_2025: processed.donorLatest,
-                    receptorQ2_2025: processed.receptorLatest,
-                    metadata: {
-                        ...processed.metadata,
-                        lastSync: updateJson?.timestamp || null
-                    },
-                    // Static mock data that we aren't transforming from these CSVs
-                    churnData,
-                    destShares,
-                    odMatrix,
-                    towerCoTenants
-                });
+                updateState(dCsv, rCsv, nCsv, updateJson);
             } catch (err) {
                 console.error("Error loading CSV data:", err);
                 setError(err.message);
@@ -67,5 +104,5 @@ export const usePortabilityData = () => {
         loadData();
     }, []);
 
-    return { data, loading, error };
+    return { data, loading, syncing, error, syncData };
 };

@@ -11,7 +11,7 @@ import { usePortabilityData } from "./hooks/usePortabilityData";
 
 export default function App() {
   const [activeTab, setActiveTab] = useState("overview");
-  const { data, loading, error } = usePortabilityData();
+  const { data, loading, syncing, error, syncData } = usePortabilityData();
 
   const renderTab = () => {
     if (loading) return <div style={{ padding: 40, textAlign: 'center' }}>Cargando datos de Portabilidad...</div>;
@@ -57,6 +57,20 @@ export default function App() {
               </div>
             </div>
             <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+              <button
+                onClick={syncData}
+                disabled={syncing || loading}
+                style={{
+                  background: syncing ? COLORS.card : COLORS.accent,
+                  color: COLORS.bg, border: "none", borderRadius: 8,
+                  padding: "6px 14px", fontSize: 11, fontWeight: 700,
+                  cursor: (syncing || loading) ? "not-allowed" : "pointer",
+                  display: "flex", alignItems: "center", gap: 6,
+                  transition: "all 0.2s", opacity: (syncing || loading) ? 0.7 : 1
+                }}
+              >
+                {syncing ? "🔄 Sincronizando..." : "📥 Actualizar Datos"}
+              </button>
               {data?.metadata?.lastSync && (
                 <Badge color={COLORS.accentAlt}>
                   Sincronizado: {new Date(data.metadata.lastSync).toLocaleString('es-CO', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' })}
