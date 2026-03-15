@@ -1,0 +1,1244 @@
+﻿ANNO;MES;TRIMESTRE;ID_PROVEEDOR_DONANTE;PROVEEDOR_DONANTE;ID_PROVEEDOR_RECEPTOR;PROVEEDOR_RECEPTOR;ID_RECHAZO;CAUSA_RECHAZO;CANTIDAD
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;9431
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;7
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;6
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;11
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3436
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;1
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;14
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;10
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;49
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;858
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;3
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;643
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;4
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;38
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5722
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;2
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;1
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;999
+2024;9;3;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;12
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5403
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;95
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1692
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;8
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;9
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;28
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;34
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;8;Numeración no implementada en la red del proveedor Donante;2
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;262
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;274
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;7
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;17
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1988
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;2
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;684
+2024;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;82
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7068
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;1
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;118
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;2
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8327
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;13
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;10
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;4
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;61
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;712
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;6;Línea Suspendida;1
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;2
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;793
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;19
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;7;Numeración no asignada a usuarios finales;1
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2638
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;3
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1550
+2024;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;18
+2024;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;173
+2024;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;164
+2024;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;37
+2024;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2024;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10
+2024;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;40
+2024;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;19
+2024;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;98
+2024;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;111
+2024;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;42
+2024;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14
+2024;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;1
+2024;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2024;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;38
+2024;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;2
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;250
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;1
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;3
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;181
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;93
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;1
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;16
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;15
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;109
+2024;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;41
+2024;9;3;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;20
+2024;9;3;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;46
+2024;9;3;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2024;9;3;900973532;SUMA MOVIL S.A.S;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;9;3;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;9;3;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;2
+2024;9;3;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;114
+2024;9;3;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;94
+2024;9;3;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;37
+2024;9;3;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;4
+2024;9;3;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;2
+2024;9;3;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10
+2024;9;3;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;11
+2024;9;3;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;28
+2024;9;3;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;5
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14909
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;5
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;381
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;2
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;9549
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;12
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;8
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2971
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;15
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;8
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;19
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;32
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;258
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;12
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;313
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;16
+2024;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;12
+2024;9;3;901470579;LOV TELECOMUNICACIONES SAS;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;9;3;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;11
+2024;9;3;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;13
+2024;9;3;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2024;9;3;830130125;LIWA S.A.S. E.S.P.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;9;3;830130125;LIWA S.A.S. E.S.P.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;9;3;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2024;9;3;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;3
+2024;9;3;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;9329
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;16
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;6
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;17
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4199
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;3
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;7
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;7;Numeración no asignada a usuarios finales;435
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;8
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;703
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;26
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;36
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5441
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;3
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;5
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;228
+2024;10;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;22
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6105
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;13
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;435
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;4
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2682
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;1
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;8
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;7;Numeración no asignada a usuarios finales;645
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;36
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;246
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;12
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;23
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2140
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;1
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;210
+2024;10;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;419
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7145
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;11
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;64
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;7
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7747
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;3
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;9
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;1
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;627
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;7
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;6;Línea Suspendida;1
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;9
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;40
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;1
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;22
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3451
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;6
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;507
+2024;10;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;15
+2024;10;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;130
+2024;10;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;3
+2024;10;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;175
+2024;10;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;42
+2024;10;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2024;10;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2024;10;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;10;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;54
+2024;10;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;15
+2024;10;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;103
+2024;10;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;106
+2024;10;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;64
+2024;10;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;1
+2024;10;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;10;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;10;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;29
+2024;10;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2024;10;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;258
+2024;10;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;1
+2024;10;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;3
+2024;10;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;164
+2024;10;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;72
+2024;10;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;36
+2024;10;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2024;10;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2024;10;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;141
+2024;10;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;16
+2024;10;4;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;18
+2024;10;4;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;37
+2024;10;4;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;15
+2024;10;4;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2024;10;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;34
+2024;10;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;33
+2024;10;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;23
+2024;10;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;10;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;9
+2024;10;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;2
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14232
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;4
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;71
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;6
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10223
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;17
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;3
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4165
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;1
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;9
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;7;Numeración no asignada a usuarios finales;219
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;3
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;239
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;7
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;4
+2024;10;4;901354361;PARTNERS TELECOM COLOMBIA WOM;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;16
+2024;10;4;901470579;LOV TELECOMUNICACIONES SAS;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2024;10;4;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;13
+2024;10;4;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;11
+2024;10;4;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2024;10;4;830130125;LIWA S.A.S. E.S.P.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;10;4;830130125;LIWA S.A.S. E.S.P.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;10;4;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;10;4;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2024;10;4;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;1
+2024;10;4;901502026;PLINTRON  COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;10;4;901502026;PLINTRON  COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;9620
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;4
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;3
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4251
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;13
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;9
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;20
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;684
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;3
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;32
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5725
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;1
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;8
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;869
+2024;11;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;55
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5746
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;39
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;68
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;5
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2244
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;18
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;17
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;48
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;206
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;4
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;26
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2135
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;7
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;372
+2024;11;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;450
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6827
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;10
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;30
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;5
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7887
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;6
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;11
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;542
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;1
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;21
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3607
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;10
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1103
+2024;11;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;13
+2024;11;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;113
+2024;11;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;1
+2024;11;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;126
+2024;11;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;47
+2024;11;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;1
+2024;11;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14
+2024;11;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;40
+2024;11;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;21
+2024;11;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;3
+2024;11;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;86
+2024;11;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;69
+2024;11;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;53
+2024;11;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;1
+2024;11;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;11;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;25
+2024;11;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2024;11;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;1
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;221
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;1
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;1
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;234
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;109
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;1
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;1
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;1
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;106
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;63
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;20
+2024;11;4;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;12
+2024;11;4;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;26
+2024;11;4;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2024;11;4;900973532;SUMA MOVIL S.A.S;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;11;4;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10
+2024;11;4;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2024;11;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;12
+2024;11;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;16
+2024;11;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2024;11;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;11;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;15954
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;18
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;120
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;8
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;13072
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;9
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;2
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;3
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5345
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;5
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;3
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;7
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;303
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;3
+2024;11;4;901354361;PARTNERS TELECOM COLOMBIA WOM;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;15
+2024;11;4;901470579;LOV TELECOMUNICACIONES SAS;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;11;4;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10
+2024;11;4;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;12
+2024;11;4;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;11;4;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2024;11;4;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;3
+2024;11;4;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;11;4;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2024;11;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8558
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;16
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;8
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;4
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3913
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;11
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;10
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;106
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;783
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;43
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5628
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;4
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;985
+2024;12;4;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;84
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5407
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;88
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;101
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2071
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;36
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;9
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;237
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;278
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;3
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;19
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2497
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;3
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;636
+2024;12;4;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;917
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5514
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;16
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;40
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;2
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6674
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;16
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;6
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;5
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;671
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;10
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;2
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;16
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4242
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;1
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;8
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1853
+2024;12;4;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;53
+2024;12;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;114
+2024;12;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;2
+2024;12;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;104
+2024;12;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;1
+2024;12;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;52
+2024;12;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;1
+2024;12;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;2
+2024;12;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;11
+2024;12;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;44
+2024;12;4;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;30
+2024;12;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;87
+2024;12;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;1
+2024;12;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;102
+2024;12;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;56
+2024;12;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;1
+2024;12;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2024;12;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;28
+2024;12;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2024;12;4;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;1
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;220
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;1
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;216
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;3
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;95
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;3
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;25
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;1
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;129
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;21
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;49
+2024;12;4;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;18
+2024;12;4;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;16
+2024;12;4;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10
+2024;12;4;900973532;SUMA MOVIL S.A.S;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;12;4;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;12;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8
+2024;12;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;20
+2024;12;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2024;12;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;12;4;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;20
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;15372
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;7
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;209
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;13917
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;10
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;6
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5496
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;12
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;7
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;89
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;344
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;3
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;6;Línea Suspendida;1
+2024;12;4;901354361;PARTNERS TELECOM COLOMBIA WOM;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;28
+2024;12;4;901470579;LOV TELECOMUNICACIONES SAS;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2024;12;4;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;12
+2024;12;4;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8
+2024;12;4;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2024;12;4;830130125;LIWA S.A.S. E.S.P.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;12;4;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;12;4;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2024;12;4;901502026;PLINTRON  COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2024;12;4;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;9664
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;3
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;1
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;5
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4344
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;36
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;10
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;23
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;880
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;38
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6324
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;23
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;889
+2025;1;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;68
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5482
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;226
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;275
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;40
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2241
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;2
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;31
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;55
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;308
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;4
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;30
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3034
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;4
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;663
+2025;1;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;827
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5193
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;26
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;130
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;19
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6794
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;24
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;4
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;8;Numeración no implementada en la red del proveedor Donante;1
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;867
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;28
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6244
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;22
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1801
+2025;1;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;42
+2025;1;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;117
+2025;1;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;1
+2025;1;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;164
+2025;1;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;52
+2025;1;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;1
+2025;1;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10
+2025;1;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;1;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;41
+2025;1;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;26
+2025;1;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;90
+2025;1;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;131
+2025;1;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;62
+2025;1;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2025;1;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;30
+2025;1;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;3
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;325
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;2
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;2
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;1
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;316
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;154
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;2
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;24
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;218
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;45
+2025;1;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;7
+2025;1;1;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;23
+2025;1;1;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;29
+2025;1;1;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;12
+2025;1;1;900973532;SUMA MOVIL S.A.S;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;1;1;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10
+2025;1;1;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2025;1;1;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;15
+2025;1;1;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;26
+2025;1;1;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;15
+2025;1;1;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;1;1;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;6;Línea Suspendida;1
+2025;1;1;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2025;1;1;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14112
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;22
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;470
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;20
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;13443
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;2
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;2
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5163
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;3
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;11
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;9
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;318
+2025;1;1;901354361;PARTNERS TELECOM COLOMBIA WOM;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;25
+2025;1;1;901470579;LOV TELECOMUNICACIONES SAS;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;1;1;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10
+2025;1;1;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;13
+2025;1;1;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2025;1;1;830130125;LIWA S.A.S. E.S.P.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;1;1;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;1;1;901502026;PLINTRON  COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;1;1;901502026;PLINTRON  COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;1;1;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;1;1;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10274
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;6
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;1
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;10
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3623
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;8
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;9
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;6
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;789
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;19
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4592
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;17
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1159
+2025;2;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;24
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7381
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;174
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;99
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;2
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1837
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;8
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;23
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;18
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;396
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;1
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;6
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;9842
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;4
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;825
+2025;2;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;4563
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5171
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;7
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;101
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;23
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6077
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;24
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;5
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;21
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;8;Numeración no implementada en la red del proveedor Donante;1
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;764
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;11
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2989
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;2
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;21
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;2316
+2025;2;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;90
+2025;2;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;143
+2025;2;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;2
+2025;2;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;12
+2025;2;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;1
+2025;2;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;201
+2025;2;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;55
+2025;2;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;12
+2025;2;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;32
+2025;2;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;62
+2025;2;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;126
+2025;2;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;133
+2025;2;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;46
+2025;2;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;2;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;27
+2025;2;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;5
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;350
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;10
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;16
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;1
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;313
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;5
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;1
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;97
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;1
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;48
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;1
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;121
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;115
+2025;2;1;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;62
+2025;2;1;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;56
+2025;2;1;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;2;1;900973532;SUMA MOVIL S.A.S;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2025;2;1;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8
+2025;2;1;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;6
+2025;2;1;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6279
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;13
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;158
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;2
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5486
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;3
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1939
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;2
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;2
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;217
+2025;2;1;901354361;PARTNERS TELECOM COLOMBIA WOM;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2025;2;1;901470579;LOV TELECOMUNICACIONES SAS;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;2;1;901470579;LOV TELECOMUNICACIONES SAS;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;1
+2025;2;1;901470579;LOV TELECOMUNICACIONES SAS;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;2;1;901470579;LOV TELECOMUNICACIONES SAS;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;2;1;901470579;LOV TELECOMUNICACIONES SAS;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;2;1;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8
+2025;2;1;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;21
+2025;2;1;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;2;1;830130125;LIWA S.A.S. E.S.P.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;2;1;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2025;2;1;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2025;2;1;901502026;PLINTRON  COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;2;1;901502026;PLINTRON  COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;2;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10325
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;7
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;3
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;3
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3732
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;4
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;26
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;20
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;891
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5061
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;14
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1051
+2025;3;1;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;22
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8332
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;438
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;75
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;15
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2390
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;12
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;20
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;82
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;374
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;2
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;2
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8753
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;1
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;8
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;652
+2025;3;1;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;3491
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5669
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;30
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;121
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;10
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6466
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;237
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;15
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;6
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;666
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2752
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;5
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;7
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;2081
+2025;3;1;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;14
+2025;3;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;157
+2025;3;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;1
+2025;3;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;2
+2025;3;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;136
+2025;3;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;66
+2025;3;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;1
+2025;3;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;18
+2025;3;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;57
+2025;3;1;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;29
+2025;3;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;156
+2025;3;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;152
+2025;3;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;65
+2025;3;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;34
+2025;3;1;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;2
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;214
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;8
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;7
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;182
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;1
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;58
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;4
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;31
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;101
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;2
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;40
+2025;3;1;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;63
+2025;3;1;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;33
+2025;3;1;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;3;1;900973532;SUMA MOVIL S.A.S;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;3;1;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;22
+2025;3;1;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;9
+2025;3;1;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;3;1;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6831
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;10
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;163
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;7
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5166
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;5
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;1
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1817
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;4
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;2
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;13
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;183
+2025;3;1;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2025;3;1;901470579;LOV TELECOMUNICACIONES SAS;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;3;1;901470579;LOV TELECOMUNICACIONES SAS;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;3;1;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;3;1;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;17
+2025;3;1;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;3;1;830130125;LIWA S.A.S. E.S.P.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;3;1;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;3;1;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;5
+2025;3;1;901502026;PLINTRON  COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;3;1;901502026;PLINTRON  COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;3;1;901502026;PLINTRON  COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;88
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;10
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;57
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;11
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;33
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;6
+2025;3;1;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;19
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8980
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;4
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;6
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3671
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;8
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;3
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;5
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;620
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;902
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;900973532;SUMA MOVIL S.A.S;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4699
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;10
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;959
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;15
+2025;4;2;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7091
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;151
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;93
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;5
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1551
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;8
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;10
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;16
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;310
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;606
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4768
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;1
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;8
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;622
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;456
+2025;4;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6155
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;11
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;166
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;1
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6084
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;7
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;7
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;31
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;592
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;6
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;786
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900973532;SUMA MOVIL S.A.S;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;11
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2845
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;13
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;2420
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;153
+2025;4;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;14
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;136
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;1
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;11
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;162
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;1
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;47
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;16
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;49
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;34
+2025;4;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;1
+2025;4;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;109
+2025;4;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;114
+2025;4;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;52
+2025;4;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;18
+2025;4;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;36
+2025;4;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;4
+2025;4;2;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;55
+2025;4;2;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;2
+2025;4;2;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;40
+2025;4;2;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;1
+2025;4;2;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;15
+2025;4;2;900973532;SUMA MOVIL S.A.S;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;4;2;900973532;SUMA MOVIL S.A.S;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;4;2;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;17
+2025;4;2;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;4
+2025;4;2;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;4;2;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6884
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;10
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;121
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;2
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5144
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;2
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;4
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2369
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;4
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;13
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;4
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;142
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;2
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;2
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;188
+2025;4;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;9
+2025;4;2;901470579;LOV TELECOMUNICACIONES SAS;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;4;2;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;4;2;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8
+2025;4;2;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;4;2;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;4;2;901502026;PLINTRON  COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;4;2;901502026;PLINTRON  COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;4;2;901502026;PLINTRON  COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;4;2;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;233
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;12
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;252
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;57
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;1
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;31
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;186
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;6
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;44
+2025;4;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;1
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;9855
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;5
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;10
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3672
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;6
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;9
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;2
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;969
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1164
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;900973532;SUMA MOVIL S.A.S;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4819
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;10
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;911
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;25
+2025;5;2;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;33
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8441
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;434
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;66
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;44
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1783
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;3
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;5
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;8
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;322
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;562
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2269
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;6
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;556
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;212
+2025;5;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;18
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4448
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;18
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;155
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;40
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6847
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;21
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;3
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;1
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;713
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;3
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1052
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900973532;SUMA MOVIL S.A.S;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2782
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;1
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;10
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;2114
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;48
+2025;5;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;107
+2025;5;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;156
+2025;5;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;3
+2025;5;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;137
+2025;5;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;38
+2025;5;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;20
+2025;5;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;22
+2025;5;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;57
+2025;5;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;30
+2025;5;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;124
+2025;5;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;1
+2025;5;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;121
+2025;5;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;57
+2025;5;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;18
+2025;5;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;28
+2025;5;2;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;25
+2025;5;2;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;35
+2025;5;2;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;5;2;900973532;SUMA MOVIL S.A.S;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2025;5;2;900973532;SUMA MOVIL S.A.S;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2025;5;2;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;11
+2025;5;2;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;6
+2025;5;2;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;5;2;901162121;LOGISTICA FLASH COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10313
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;15
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;197
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;19
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6205
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;5
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2627
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;3
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;8
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;1
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;213
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;7
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;466
+2025;5;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;21
+2025;5;2;901470579;LOV TELECOMUNICACIONES SAS;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;5;2;901470579;LOV TELECOMUNICACIONES SAS;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;5;2;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;5;2;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8
+2025;5;2;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;5;2;830130125;LIWA S.A.S. E.S.P.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;5;2;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;5;2;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2025;5;2;901502026;PLINTRON  COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8
+2025;5;2;901502026;PLINTRON  COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10
+2025;5;2;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;5;2;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2025;5;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;179
+2025;5;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;1
+2025;5;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;207
+2025;5;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;86
+2025;5;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;1
+2025;5;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;30
+2025;5;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;5;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;149
+2025;5;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;2
+2025;5;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;24
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8420
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;2
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;4
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;25
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3118
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;2
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;8
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;7;Numeración no asignada a usuarios finales;26
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;8
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;562
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;745
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4451
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;8
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;907
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;17
+2025;6;2;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;58
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7147
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;39
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;76
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;3
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1550
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;6
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;9
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;7;Numeración no asignada a usuarios finales;29
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;8
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;199
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;309
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1680
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;1
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;6
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;416
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;65
+2025;6;2;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;10
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4436
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;5
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;104
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;8;Numeración no implementada en la red del proveedor Donante;1
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4873
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;6
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;5
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;2
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;378
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;2
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;832
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900973532;SUMA MOVIL S.A.S;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2662
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;5;Línea Desactivada;1
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;12
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1733
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;186
+2025;6;2;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;68
+2025;6;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;110
+2025;6;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;1
+2025;6;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;86
+2025;6;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;1
+2025;6;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;32
+2025;6;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2025;6;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;11
+2025;6;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;50
+2025;6;2;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;14
+2025;6;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;100
+2025;6;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;1
+2025;6;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;93
+2025;6;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;1
+2025;6;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;50
+2025;6;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;12
+2025;6;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;25
+2025;6;2;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;3
+2025;6;2;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;23
+2025;6;2;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;33
+2025;6;2;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2025;6;2;900973532;SUMA MOVIL S.A.S;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;6;2;900973532;SUMA MOVIL S.A.S;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;6;2;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;6;2;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;2
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;9822
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;2
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;178
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5187
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;1
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;2
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3660
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;2
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;9
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;7;Numeración no asignada a usuarios finales;24
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;182
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;6;Línea Suspendida;2
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;235
+2025;6;2;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;43
+2025;6;2;901470579;LOV TELECOMUNICACIONES SAS;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;6;2;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;6;2;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;6;2;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;6;2;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2025;6;2;901502026;PLINTRON  COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;6;2;901502026;PLINTRON  COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;6;2;901502026;PLINTRON  COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;6;2;901502026;PLINTRON  COLOMBIA S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;6;2;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;6;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;264
+2025;6;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;1
+2025;6;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;284
+2025;6;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;108
+2025;6;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;42
+2025;6;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;6;Línea Suspendida;1
+2025;6;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;1
+2025;6;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;161
+2025;6;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;1
+2025;6;2;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;34
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5242
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;16
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;1
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3348
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;7
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;14
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;9
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;16
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;655
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;6;Línea Suspendida;2
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;544
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;43
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;6;Línea Suspendida;1
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3236
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;7
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1076
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;63
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;63
+2025;9;3;830114921;COLOMBIA MÓVIL S.A ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;12
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5223
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;4
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;12
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1611
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;5
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;20
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;1
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;29
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;319
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;330
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;22
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;6;Línea Suspendida;1
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;7;Numeración no asignada a usuarios finales;1
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1132
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;7
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;516
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;86
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;22
+2025;9;3;800153993;COMUNICACION CELULAR S A COMCEL S A;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;12
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2593
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;6
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;6
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2383
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;17
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;6;Línea Suspendida;3
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;800153993;COMUNICACION CELULAR S A COMCEL S A;7;Numeración no asignada a usuarios finales;2
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;18
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;545
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;5;Línea Desactivada;2
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900389508;ALMACENES EXITO INVERSIONES S.A.S.;6;Línea Suspendida;2
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;396
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;24
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2150
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;7
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;2762
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;203
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;56
+2025;9;3;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;29
+2025;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;53
+2025;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;37
+2025;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;33
+2025;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2025;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;27
+2025;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;18
+2025;9;3;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;98
+2025;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;49
+2025;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;67
+2025;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;8
+2025;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;1
+2025;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;32
+2025;9;3;900389508;ALMACENES EXITO INVERSIONES S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;8
+2025;9;3;900973532;SUMA MOVIL S.A.S;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;19
+2025;9;3;900973532;SUMA MOVIL S.A.S;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;16
+2025;9;3;900973532;SUMA MOVIL S.A.S;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;5
+2025;9;3;900973532;SUMA MOVIL S.A.S;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6
+2025;9;3;900973532;SUMA MOVIL S.A.S;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;9;3;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;9;3;900973532;SUMA MOVIL S.A.S;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;3
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;6035
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;5;Línea Desactivada;3
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;19
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3597
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;2
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2607
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;5;Línea Desactivada;1
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;6;Línea Suspendida;8
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;8;Numeración no implementada en la red del proveedor Donante;4
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;12
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;328
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;6;Línea Suspendida;2
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900389508;ALMACENES EXITO INVERSIONES S.A.S.;7;Numeración no asignada a usuarios finales;2
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;188
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;14
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;6;Línea Suspendida;2
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;47
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;5;Línea Desactivada;32
+2025;9;3;901354361;PARTNERS TELECOM COLOMBIA WOM;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;6;Línea Suspendida;3
+2025;9;3;830130125;LIWA S.A.S. E.S.P.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;9;3;830130125;LIWA S.A.S. E.S.P.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;2
+2025;9;3;830130125;LIWA S.A.S. E.S.P.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;9;3;830130125;LIWA S.A.S. E.S.P.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2025;9;3;901502026;PLINTRON  COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;9;3;901502026;PLINTRON  COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;7;Numeración no asignada a usuarios finales;1
+2025;9;3;901502026;PLINTRON  COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;7
+2025;9;3;901502026;PLINTRON  COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;9;3;901502026;PLINTRON  COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;1
+2025;9;3;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;4
+2025;9;3;901502026;PLINTRON  COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;1
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830114921;COLOMBIA MÓVIL S.A ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;104
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;60
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;800153993;COMUNICACION CELULAR S A COMCEL S A;5;Línea Desactivada;1
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;830122566;COLOMBIA TELECOMUNICACIONES S A E S P;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;58
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;899999115;EMPRESA DE TELECOMUNICACIONES DE BOGOTA SA ESP;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;3
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;23
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;900389508;ALMACENES EXITO INVERSIONES S.A.S.;6;Línea Suspendida;1
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;1;Solicitante modalidad prepago/pospago no es el suscriptor del contrato ni está autorizado;58
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;6;Línea Suspendida;2
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;7;Numeración no asignada a usuarios finales;10
+2025;9;3;900420122;VIRGIN MOBILE COLOMBIA S.A.S.;901354361;PARTNERS TELECOM COLOMBIA WOM;9;Línea prepago sin actividad en la red;1

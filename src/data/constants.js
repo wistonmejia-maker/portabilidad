@@ -1,0 +1,47 @@
+export const COLORS = {
+    claro: "#DA291C",
+    movistar: "#019DF4",
+    tigo: "#00377B",
+    wom: "#6B2D8B",
+    exito: "#FFD100",
+    virgin: "#ED1C24",
+    etb: "#003DA5",
+    flash: "#FF6B00",
+    suma: "#00A651",
+    setroc: "#8B572A",
+    lov: "#E91E8C",
+    bg: "#0A0E1A",
+    card: "#111827",
+    cardHover: "#1A2236",
+    border: "#1E293B",
+    accent: "#00E5A0",
+    accentAlt: "#00B4D8",
+    warn: "#F59E0B",
+    danger: "#EF4444",
+    text: "#F1F5F9",
+    textMuted: "#94A3B8",
+    textDim: "#64748B",
+    positive: "#10B981",
+    negative: "#EF4444",
+};
+
+export const OPERATORS = {
+    "CLARO": { color: COLORS.claro, type: "OMR", brand: "CLARO (Comcel)" },
+    "MOVISTAR": { color: COLORS.movistar, type: "OMR", brand: "MOVISTAR (Telefónica)" },
+    "TIGO": { color: COLORS.tigo, type: "OMR", brand: "TIGO (Millicom)" },
+    "WOM": { color: COLORS.wom, type: "OMR", brand: "WOM (Partners Telecom)" },
+    "ÉXITO": { color: COLORS.exito, type: "OMV", brand: "ÉXITO Móvil" },
+    "VIRGIN": { color: COLORS.virgin, type: "OMV", brand: "Virgin Mobile" },
+    "ETB": { color: COLORS.etb, type: "OMV", brand: "ETB" },
+    "FLASH MOBILE": { color: COLORS.flash, type: "OMV", brand: "Flash Mobile" },
+    "SUMA": { color: COLORS.suma, type: "OMV", brand: "Suma Móvil" },
+    "SETROC": { color: COLORS.setroc, type: "OMV", brand: "Setroc (LOV)" },
+};
+
+export const TABS = [
+    { id: "overview", label: "Resumen Ejecutivo", icon: "◆" },
+    { id: "trends", label: "Tendencias", icon: "◈" },
+    { id: "operators", label: "Operadores", icon: "◉" },
+    { id: "flows", label: "Flujos OD", icon: "⬡" },
+    { id: "towerco", label: "Visión TowerCo", icon: "▲" },
+];
