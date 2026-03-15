@@ -38,22 +38,22 @@ export const usePortabilityData = () => {
         setError(null);
         try {
             const externalUrls = [
-                'https://www.datos.gov.co/api/views/6qf7-9gvu/rows.csv?accessType=DOWNLOAD', // Donante
-                'https://www.datos.gov.co/api/views/2w58-6nhq/rows.csv?accessType=DOWNLOAD', // Receptor
-                'https://www.datos.gov.co/api/views/b3vi-b83r/rows.csv?accessType=DOWNLOAD'  // Neto
+                'https://www.datos.gov.co/api/views/p2kd-2azt/rows.csv?accessType=DOWNLOAD', // Donante
+                'https://www.datos.gov.co/api/views/e3ge-k6at/rows.csv?accessType=DOWNLOAD', // Receptor
+                'https://www.datos.gov.co/api/views/axh7-zz5y/rows.csv?accessType=DOWNLOAD'  // Neto
             ];
 
             const [dRes, rRes, nRes] = await Promise.all(externalUrls.map(url => fetch(url)));
 
-            if (!dRes.ok || !rRes.ok || !nRes.ok) {
-                throw new Error("Error conectando con los servidores de la CRC (PostData)");
-            }
+            if (!dRes.ok) throw new Error("No se pudo conectar con el dataset Donante");
+            if (!rRes.ok) throw new Error("No se pudo conectar con el dataset Receptor");
+            if (!nRes.ok) throw new Error("No se pudo conectar con el dataset Neto");
 
             const [dText, rText, nText] = await Promise.all([dRes.text(), rRes.text(), nRes.text()]);
 
-            const dCsv = Papa.parse(dText, { header: true, delimiter: ",", skipEmptyLines: true }).data;
-            const rCsv = Papa.parse(rText, { header: true, delimiter: ",", skipEmptyLines: true }).data;
-            const nCsv = Papa.parse(nText, { header: true, delimiter: ",", skipEmptyLines: true }).data;
+            const dCsv = Papa.parse(dText, { header: true, skipEmptyLines: true }).data;
+            const rCsv = Papa.parse(rText, { header: true, skipEmptyLines: true }).data;
+            const nCsv = Papa.parse(nText, { header: true, skipEmptyLines: true }).data;
 
             updateState(dCsv, rCsv, nCsv, { timestamp: new Date().toISOString() });
             return true;
@@ -88,9 +88,9 @@ export const usePortabilityData = () => {
                     updateRes && updateRes.ok ? updateRes.json() : null
                 ]);
 
-                const dCsv = Papa.parse(donanteText, { header: true, delimiter: ";", skipEmptyLines: true }).data;
-                const rCsv = Papa.parse(receptorText, { header: true, delimiter: ";", skipEmptyLines: true }).data;
-                const nCsv = Papa.parse(netoText, { header: true, delimiter: ";", skipEmptyLines: true }).data;
+                const dCsv = Papa.parse(donanteText, { header: true, skipEmptyLines: true }).data;
+                const rCsv = Papa.parse(receptorText, { header: true, skipEmptyLines: true }).data;
+                const nCsv = Papa.parse(netoText, { header: true, skipEmptyLines: true }).data;
 
                 updateState(dCsv, rCsv, nCsv, updateJson);
             } catch (err) {
