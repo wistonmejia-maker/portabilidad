@@ -44,4 +44,5 @@ export const TABS = [
     { id: "operators", label: "Operadores", icon: "◉" },
     { id: "flows", label: "Flujos OD", icon: "⬡" },
     { id: "towerco", label: "Visión TowerCo", icon: "▲" },
+    { id: "about", label: "Acerca del Proyecto", icon: "ⓘ" },
 ];

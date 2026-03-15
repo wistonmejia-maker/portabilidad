@@ -5,6 +5,7 @@ import { TrendsTab } from "./components/tabs/TrendsTab";
 import { OperatorsTab } from "./components/tabs/OperatorsTab";
 import { FlowsTab } from "./components/tabs/FlowsTab";
 import { TowerCoTab } from "./components/tabs/TowerCoTab";
+import { AboutTab } from "./components/tabs/AboutTab";
 import { COLORS, TABS } from "./data/constants";
 import { usePortabilityData } from "./hooks/usePortabilityData";
 
@@ -22,6 +23,7 @@ export default function App() {
       case "operators": return <OperatorsTab data={data} />;
       case "flows": return <FlowsTab data={data} />;
       case "towerco": return <TowerCoTab data={data} />;
+      case "about": return <AboutTab />;
       default: return <OverviewTab data={data} />;
     }
   };
