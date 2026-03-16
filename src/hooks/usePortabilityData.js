@@ -38,17 +38,19 @@ export const usePortabilityData = () => {
         setError(null);
         try {
             // Fetch via our server-side proxy to bypass CORS restrictions
+            // We add a cache-buster timestamp to force fresh retrieval
+            const cb = `&_cb=${Date.now()}`;
             const proxyBase = '/api/proxy-sync?type=';
 
             const [dRes, rRes, nRes] = await Promise.all([
-                fetch(`${proxyBase}donante`),
-                fetch(`${proxyBase}receptor`),
-                fetch(`${proxyBase}neto`)
+                fetch(`${proxyBase}donante${cb}`),
+                fetch(`${proxyBase}receptor${cb}`),
+                fetch(`${proxyBase}neto${cb}`)
             ]);
 
-            if (!dRes.ok) throw new Error("No se pudo conectar con el Proxy Donante");
-            if (!rRes.ok) throw new Error("No se pudo conectar con el Proxy Receptor");
-            if (!nRes.ok) throw new Error("No se pudo conectar con el Proxy Neto");
+            if (!dRes.ok) throw new Error("No se pudo conectar con el Proxy Donante (CORS Bridge)");
+            if (!rRes.ok) throw new Error("No se pudo conectar con el Proxy Receptor (CORS Bridge)");
+            if (!nRes.ok) throw new Error("No se pudo conectar con el Proxy Neto (CORS Bridge)");
 
             const [dText, rText, nText] = await Promise.all([dRes.text(), rRes.text(), nRes.text()]);
 
