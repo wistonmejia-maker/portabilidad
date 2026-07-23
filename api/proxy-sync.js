@@ -4,16 +4,31 @@ import axios from 'axios';
 export default async function handler(req, res) {
     const { type } = req.query;
 
-    const urls = {
-        donante: 'https://www.postdata.gov.co/sites/default/files/Operaciones_Portaci%C3%B3n_Donante_1.csv',
-        receptor: 'https://www.postdata.gov.co/sites/default/files/Operaciones_Portaci%C3%B3n_Receptor_1.csv',
-        neto: 'https://www.postdata.gov.co/sites/default/files/PNM_RECEPTOR_NETO_1.csv'
+    // Paginas de recurso (slug ESTABLE): resolvemos el link de descarga en vivo.
+    const resourcePages = {
+        donante: 'https://www.postdata.gov.co/resource/operaciones-de-portacion-por-proveedor-donante',
+        receptor: 'https://www.postdata.gov.co/resource/operaciones-de-portacion-por-proveedor-receptor',
+        neto: 'https://www.postdata.gov.co/resource/pnm-receptor-neto'
+    };
+    // Respaldo por ID (176 = donante, 175 = receptor, 207 = neto).
+    const fallbackUrls = {
+        donante: 'https://www.postdata.gov.co/resource/176/download/file',
+        receptor: 'https://www.postdata.gov.co/resource/175/download/file',
+        neto: 'https://www.postdata.gov.co/resource/207/download/file'
     };
 
-    const targetUrl = urls[type];
-
-    if (!targetUrl) {
+    if (!resourcePages[type] && !fallbackUrls[type]) {
         return res.status(400).json({ error: 'Invalid data type requested' });
+    }
+
+    // Resuelve el link de descarga actual desde la pagina del recurso.
+    let targetUrl = fallbackUrls[type];
+    try {
+        const page = await axios({ method: 'GET', url: resourcePages[type], responseType: 'text', timeout: 15000 });
+        const match = String(page.data).match(/\/resource\/(\d+)\/download\/file/);
+        if (match) targetUrl = `https://www.postdata.gov.co/resource/${match[1]}/download/file`;
+    } catch (e) {
+        // usar respaldo
     }
 
     try {
@@ -21,7 +36,7 @@ export default async function handler(req, res) {
             method: 'GET',
             url: targetUrl,
             responseType: 'arraybuffer', // Get as buffer to handle potential encoding issues
-            timeout: 15000 // 15s timeout
+            timeout: 30000
         });
 
         // Set headers to allow CORS (though Vercel handles this, it's safer to be explicit)
