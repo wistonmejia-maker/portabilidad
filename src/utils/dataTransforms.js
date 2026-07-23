@@ -49,7 +49,8 @@ export const processPortabilityData = (opReceptorRaw, opDonanteRaw, netReceiverR
         if (!annualOpsMap[year]) annualOpsMap[year] = { year, total: 0, q2Total: 0 };
         annualOpsMap[year].total += ops;
 
-        if (parseInt(row.TRIMESTRE) === 2) {
+        // Acumulado del anio hasta el ultimo mes disponible (YTD): compara el mismo periodo interanual
+        if (parseInt(row.MES) <= maxMonth) {
             annualOpsMap[year].q2Total += ops;
         }
     });
