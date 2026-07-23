@@ -14,12 +14,29 @@ export const OverviewTab = ({ data }) => {
     const prevYearData = annualOps.find(d => d.year === lastYear - 1) || { ops: 0, q2: 0 };
 
     const h1_2025 = lastYearData.q2 || lastYearData.ops;
-    const q2_2025 = lastYearData.q2 || 0; // Approximation 
     const varYoY = prevYearData.q2 ? parseFloat((((h1_2025 - prevYearData.q2) / prevYearData.q2) * 100).toFixed(1)) : 0;
-    const varQoQ = -3.8; // Would require monthly granularity to calculate precisely
+    // Ultimo trimestre real y su variacion (ultimos 3 meses vs. los 3 previos), desde monthlyOps
+    const monthly = data.monthlyOps || [];
+    const sum3 = (arr) => arr.reduce((s, x) => s + (x.v || 0), 0);
+    const ltCur = parseFloat((sum3(monthly.slice(-3)) / 1000).toFixed(2));
+    const ltPrev = sum3(monthly.slice(-6, -3)) / 1000;
+    const varQoQ = ltPrev > 0 ? parseFloat((((ltCur - ltPrev) / ltPrev) * 100).toFixed(1)) : 0;
 
     const totalOps = (annualOps.reduce((sum, d) => sum + d.ops, 0)).toFixed(1);
-    const avgMonthly = Math.round((h1_2025 * 1000) / (lastQuarter * 3));
+    const avgMonthly = metadata.lastMonth > 0 ? Math.round((h1_2025 * 1000) / metadata.lastMonth) : Math.round((h1_2025 * 1000) / (lastQuarter * 3));
+
+    // Bullet dinamico de netos por operador (desde netResultsOMR, ultimo periodo)
+    const nrOps = ["CLARO", "MOVISTAR", "TIGO", "WOM"];
+    const nrLast = (data.netResultsOMR || []).slice(-1)[0] || null;
+    const joinList = (a) => (a.length > 1 ? a.slice(0, -1).join(", ") + " y " + a[a.length - 1] : (a[0] || ""));
+    const nrNeg = nrLast ? nrOps.filter((k) => nrLast[k] < 0) : [];
+    const nrPos = nrLast ? nrOps.filter((k) => nrLast[k] > 0) : [];
+    const netBullet = nrLast
+        ? [
+            nrNeg.length ? `${joinList(nrNeg)} ${nrNeg.length > 1 ? "presentan" : "presenta"} resultados netos negativos` : "",
+            nrPos.length ? `${joinList(nrPos)} ${nrPos.length > 1 ? "capturan" : "captura"} flujos` : ""
+        ].filter(Boolean).join("; ") + "."
+        : "TIGO y WOM presentan resultados netos negativos; CLARO y MOVISTAR capturan flujos.";
 
     // Identify winners and losers for dynamic insights
     const latestDonors = data.donorQ2_2025 || [];
@@ -48,15 +65,15 @@ export const OverviewTab = ({ data }) => {
                 <p style={{ fontSize: 13, color: COLORS.textMuted, margin: 0, lineHeight: 1.6 }}>
                     Las operaciones de portación variaron <span style={{ color: varYoY < 0 ? COLORS.negative : COLORS.positive, fontWeight: 700 }}>{varYoY}%</span> en el año {lastYear} frente al mismo periodo de {lastYear - 1}.
                     Acumulado histórico: <span style={{ color: COLORS.accent, fontWeight: 700 }}>{totalOps}M</span> operaciones desde agosto 2011.
-                    TIGO y WOM presentan resultados netos negativos; CLARO y MOVISTAR capturan flujos.
+                    {netBullet}
                 </p>
             </div>
 
             <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: 12, marginBottom: 28 }}>
                 <KPICard icon="📊" label="Acumulado Histórico" value={`${totalOps}M`} sub={`Ago 2011 – Mes ${metadata.lastMonth} ${lastYear}`} />
                 <KPICard icon="📈" label={`Año ${lastYear}`} value={`${h1_2025}M`} delta={varYoY} sub={`vs ${lastYear - 1}`} />
-                <KPICard icon="📉" label="Último Trimestre" value={`${q2_2025}M`} delta={varQoQ} sub="vs anterior" />
-                <KPICard icon="🔄" label="Promedio Mensual" value={`${avgMonthly}K`} delta={-5.9} sub="vs Q2 2024" />
+                <KPICard icon="📉" label="Último Trimestre" value={`${ltCur}M`} delta={varQoQ} sub="vs anterior" />
+                <KPICard icon="🔄" label="Promedio Mensual" value={`${avgMonthly}K`} delta={varYoY} sub={`vs ${lastYear - 1}`} />
             </div>
 
             <SectionTitle sub={`Millones de operaciones acumuladas por año (2011–${lastYear})`}>Evolución Anual</SectionTitle>

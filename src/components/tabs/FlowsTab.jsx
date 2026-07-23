@@ -19,7 +19,7 @@ export const FlowsTab = ({ data }) => {
 
     return (
         <div>
-            <SectionTitle sub={`Resultados netos origen-destino Q${metadata.lastQuarter} ${metadata.lastYear} (miles de operaciones)`}>Matriz de Flujos entre OMR</SectionTitle>
+            <SectionTitle sub={`Cifras ilustrativas — no provienen de los CSV en vivo (el dataset origen-destino no se publica en Postdata)`}>Matriz de Flujos entre OMR (ilustrativa)</SectionTitle>
 
             {/* Matrix table */}
             <div style={{ overflowX: "auto", marginBottom: 24 }}>
